@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103040357760",
+    "project_id": "housewalls",
+    "storage_bucket": "housewalls.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103040357760:android:a6be31b58ce58ee5a11d65",
+        "android_client_info": {
+          "package_name": "com.example.house_walls"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWWgx69Pig3K6br3MI90xb9S0PZN8JiFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
